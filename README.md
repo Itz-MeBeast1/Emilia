@@ -4,14 +4,14 @@
 <div align="center">
   <img border-radius: 15px src="Emilia.jpg" width="170" height="170"/>
   <p align="center">
-<a href="#"><img title="Emilia" src="https://img.shields.io/badge/Beastvro888-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Emilia" src="https://img.shields.io/badge/Itz-MeBeast1-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Beastvro888"><img title="Author" src="https://img.shields.io/badge/Author-Beastvro888/Emilia?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Itz-MeBeast1"><img title="Author" src="https://img.shields.io/badge/Author-Itz-MeBeast1/Emilia?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Beastvro888">Beastvro888</a> to make it public
+Project created by <a href="https://github.com/Itz-MeBeast1">Itz-MeBeast1</a> to make it public
     <br>
        | © |
         Reserved |
@@ -21,13 +21,13 @@ Project created by <a href="https://github.com/Beastvro888">Beastvro888</a> to m
 ----
 
   <p align="center">
-  <a href="https://github.com/Beastvro888/Emilia ">
-    <img src="https://img.shields.io/github/repo-size/Beastvro888/Emilia?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="https://github.com/Itz-MeBeast1/Emilia ">
+    <img src="https://img.shields.io/github/repo-size/Itz-MeBeast1/Emilia?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/Beastvro888/followers"><img title="Followers" src="https://img.shields.io/github/followers/Beastvro888?color=red&style=flat-circle"></a>
-<a href="https://github.com/Beastvro888/Emilia/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Beastvro888/Emilia?color=red&style=flat-square"></a>
-<a href="https://github.com/Beastvro888/Emilia/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Beastvro888/Emilia?color=red&style=flat-square"></a>
-<a href="https://github.com/Beastvro888/Emilia/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Beastvro888/Emilia?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/Itz-MeBeast1/followers"><img title="Followers" src="https://img.shields.io/github/followers/Itz-MeBeast1?color=red&style=flat-circle"></a>
+<a href="https://github.com/Itz-MeBeast1/Emilia/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Itz-MeBeast1/Emilia?color=red&style=flat-square"></a>
+<a href="https://github.com/Itz-MeBeast1/Emilia/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Itz-MeBeast1/Emilia?color=red&style=flat-square"></a>
+<a href="https://github.com/Itz-MeBeast1/Emilia/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Itz-MeBeast1/Emilia?label=Watchers&color=red&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 
 ```
@@ -54,7 +54,7 @@ the user is responsible.
   ### Simple Method
  [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Beastvro888/Emilia)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Itz-MeBeast1/Emilia)
      </div>
 <br>
 <br >
@@ -85,9 +85,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [[![Beastvro888](https://github.com/Beastvro888.png?size=100)](https://github.com/Beastvro888) 
+  [[![Itz-MeBeast1](https://github.com/Itz-MeBeast1.png?size=100)](https://github.com/Itz-MeBeast1) 
 
-[Beastvro888](https://github.com/Beastvro888)
+[Itz-MeBeast1](https://github.com/Itz-MeBeast1)
 
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
